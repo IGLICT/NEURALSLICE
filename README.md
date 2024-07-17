@@ -1,9 +1,9 @@
 # NEURALSLICE
-The code of "NEURALSLICE: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes (ICML 2023)"
+The code of "NeuralSlice: Neural 3D Triangle Mesh Reconstruction via Slicing 4D Tetrahedral Meshes (ICML 2023)"
 
 We release demo code about fitting a deformable animal within single 4D Tetrahedral Mesh. 
 
-Using *python fit_deform.py* to fit a animal.
+Using *python fit_deform.py* to fit an animal.
 
 We thank Neural Mesh Flow and Conv Occ Net's code framework and processed point clould dataset. Please refer to https://github.com/KunalMGupta/NeuralMeshFlow and https://github.com/autonomousvision/convolutional_occupancy_networks.
 
